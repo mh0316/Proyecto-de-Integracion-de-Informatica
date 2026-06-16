@@ -1,0 +1,18 @@
+CONFIGURACIÓN Y CONEXIÓN A LA RED WI-FI EDUROAM EN LA UFRO
+
+Eduroam (education roaming) es la red inalámbrica segura desarrollada para la comunidad académica internacional. En la Universidad de La Frontera (UFRO), los estudiantes de pregrado y posgrado pueden conectarse siguiendo estos pasos obligatorios:
+
+Requisitos Previos:
+* Contar con una cuenta de correo institucional UFRO activa (@ufromail.cl o @ufrontera.cl).
+* Conocer la contraseña de tu Intranet.
+
+Pasos para la instalación en Windows 8, Windows 10 y Windows 11:
+1. Activa el Wi-Fi de tu dispositivo y busca las redes disponibles en el campus.
+2. Selecciona la red llamada "eduroam" y haz clic en "Conectar".
+3. Cuando el sistema te solicite las credenciales de acceso, debes ingresar:
+   - Usuario: Tu RUT completo sin puntos ni guión seguido de @ufromail.cl (ejemplo: 201234567@ufromail.cl).
+   - Contraseña: Tu clave de intranet de la universidad.
+4. Si el sistema operativo te muestra una alerta de seguridad sobre un "Certificado", haz clic en el botón "Conectar" o "Aceptar" para validar la máscara esférica de seguridad de la UFRO.
+5. Una vez validado, tu dispositivo quedará conectado automáticamente a internet en cualquier rincón de la universidad y en otras instituciones asociadas a eduroam a nivel mundial.
+
+Soporte Técnico: En caso de tener problemas con tu cuenta, acude directamente a la mesa de ayuda de la Dirección de Informática (DINFO) escribiendo a wdinfo@ufrontera.cl o contactándote al (56)45-2325500.

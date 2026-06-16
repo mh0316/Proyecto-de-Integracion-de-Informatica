@@ -1,0 +1,15 @@
+# Entorno y credenciales críticas
+.env
+__pycache__/
+*.pyc
+
+# Base de datos vectorial local (Se genera con ingest.py, no se sube)
+chroma_db/
+
+# Almacenamiento temporal de archivos de voz
+temp_audio/
+
+# Entornos virtuales de Python
+venv/
+.venv/
+env/

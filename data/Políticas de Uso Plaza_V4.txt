@@ -1,0 +1,341 @@
+Términos y condiciones de uso del 
+Servicio Colaborativo de Comunicación 
+y Multimedia – PLAZA  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este documento está bajo licencia Creative Commons Attribution -ShareAlike3.0 Unported License.  
+Tabla de Contenidos  
+Autores  María Irene Delgado, Lorena Donoso  
+Revisores  Alejandro Lara, Beatriz Contreras,  Carolina Muñoz, Paola 
+Arellano  
+Última modificación  16 de junio  de 202 2 
+Versión  4.0 
+
+2 
+ 1 Definiciones y Terminología  3 
+2 Introducción  4 
+3 Condiciones del Servicio PLAZA  4 
+3.1 Servicio colaborativo de videoconferencia  4 
+3.2 Servicio colaborativo de Webinar  5 
+3.3 Servicio de Streaming y Canal de YouTube REUNA  5 
+3.4 Integración con Apps  6 
+3.5 Servicio de Asistencia  6 
+3.6 Acceso al Servicio PLAZA  6 
+4 Los/las usuarios/as y el uso de PLAZA  7 
+4.1 Consideraciones para el uso de PLAZA  7 
+4.2 Uso responsable del servicio  8 
+4.3 Pérdida de la condición de usuario/a  9 
+5 Obligaciones y Derechos  9 
+5.1 Obligaciones y Derechos de REUNA  9 
+5.2 Obligaciones y Derechos de las Instituciones beneficiarias del Servicio  10 
+6 Privacidad de los Datos  10 
+7 Limitación de responsabilidad  11 
+8 Modificación de las Políticas y Términos de Uso  11 
+ 
+  
+3 
+ 1 Definiciones y Terminología  
+ 
+ 
+En el contexto de este documento  
+PLAZA  Servicio colaborativo de comunicación  y multimedia  sobre 
+Redes Académicas , tales como videoconferencia s, streaming  y 
+seminarios web.  
+ID.REUNA  Plataforma que autentica a los/las usuarios/as, asignando una cuenta 
+única para el a cceso a los servicios federados  que REUNA entrega 
+a su comunidad . 
+Acceso Federado  Es el que permite el ingreso de usuarios/as a un determinado 
+servicio,  a través de uno o más protocolos que definen u na 
+federación de identidad.  
+Sistema Dinámico  Sistema que permite asignar/desasignar licencias pro/básicas  en 
+funci ón de la disponibilidad.  
+Licencia Zoom Education  
+(Licensed)  Licencia de videoconferencia que cuenta con los atributos de tiempo  
+ilimitado, hasta 300 participantes, grabación local, entre otros . 
+Licencia Zoom Básica  (Basic)  Licencia de videoconferencia que cuenta con atributos de tiempo 
+limitado  hasta 40 min, cuando participan más de dos personas, y 
+funcionalidades restringidas . 
+Sesión  Proceso que inicia el /la usuario/a con su acceso a la plataforma 
+PLAZA . 
+Videoconferencia  Reunión interactiva en formato on -line con audio y video, realizada a 
+través de la plataforma PLAZA . 
+Institución Beneficiaria del 
+Servicio o Institución  Instituciones asociadas a REUNA qu e se han unido al Servicio 
+PLAZA.  
+Usuario /a del Servicio o 
+Usuario /a Persona perteneciente a una Institución beneficiaria del Servicio 
+PLAZA . 
+Soporte Nivel 1  Servicio de asistencia otorgado por la Institución a la que pertenece 
+cada  usuario/a, y que soluciona las incidencias básicas que este/esta 
+pudiera enfrentar al momento de usar PLAZA . 
+Soporte Nivel 2  Servicio de asistencia a la Institución y/ o al usuario/a , otorgado por el 
+equipo de REUNA, que soluciona las incidencias que no pueden ser 
+respondidas por el Soporte Nivel 1  de la Institución . 
+Marketplace de Zoom  Plataforma  web de Zoom  (https://marketplace.zoom.us/) , en la  que 
+se publica n todas las aplicaciones  (Apps),  con las qu e sus us uarios 
+pueden integrar Zoom , para complementar su gestión  con dicha 
+herramienta . 
+ 
+  
+4 
+ 2 Introducción  
+El presente documento describe los términos y condiciones  de uso del Servicio colaborativo de comunicación 
+y multimedia sobre Redes Académicas , en adelante PLAZA  o “Servicio” , entregado por REUNA a sus 
+instituciones asociadas . 
+PLAZA  es un servicio disponible para todas las instituciones adscritas a REUNA, que tiene como objetivo apoyar 
+la gestión de éstas , proporcionándoles  una plataforma compartida de videoconferencia de alta calidad, que 
+integra soluciones de webinar, streaming  y acceso a l canal You Tube de REUNA, material de apoyo  y de buenas 
+prácticas , talleres de capacitación , estadísticas de uso, monitoreo continuo  y apoyo técnico en horarios de oficina.  
+3 Condiciones de l Servicio PLAZA  
+3.1 Servicio  colaborativ o de videoconferencia  
+El servicio colaborativo  de videoconferencia de PLAZA , provisto por REUNA a sus instituciones , utiliza la 
+solución  comercial  Zoom, la cua l ha sido seleccionada por su alta  calidad , flexibilidad  y facilidad de uso  de cara 
+al/la usuario /a final.  
+REUNA, ha realizado adapta ciones  para establecer un espacio colaborativo  de asignación y de sasignación 
+dinámica de Licencias  Zoom Education , según demanda y disponibilidad , de manera tal que sea capaz de 
+soportar los requerimientos concurrentes de los usuarios/as de las distintas instituciones , administra ndo las 
+capacidades de acuerdo a criterios de equidad, transparencia y eficiencia . A esto se denomina siste ma dinámico 
+de asignación de licencias . 
+Actualmente,  PLAZA es capaz de soportar hasta un máximo de 3.000 sesiones simult áneas  con Licencias Zoom 
+Education . Al ser un sistema de asignación dinámico , la disponibilidad de Licencias Zoom Education  podría 
+verse  afectada por la demanda  de sesiones concurrentes  al momento de realizar  una videoconferencia . En esos 
+casos, al usuario se le asignará una Licencia Zoom Básica, hasta que el sistema cuente con alguna Licencia 
+Zoom Education disponible , caso en el cual, de  manera transparente para el usuario será asignada una de estas 
+licencias para la continuidad de la actividad . 
+La calidad de la videoconferencia  siempre queda sujeta a las características del dispositivo y  la conexión a 
+Internet que tenga cada usuario/a, factores que no son  responsabilidad de REUNA .  
+En cuanto al almacenamiento del contenido generado durante las distintas actividades, este sólo podrá ser 
+guardado en forma local por cada  usuario/a . REUNA no entrega espacio en la nube para almacenamiento en e l 
+Servicio PLAZA .  
+REUNA podrá realizar modificaciones a la solución con el fin de mejora r su funcionamiento. Si es tos cambios 
+afectan la continuidad del servicio, REUNA informará a las instituciones a través de  la página de l Servicio  y otros 
+canales , según estime conveniente.  
+5 
+ 3.2 Servicio colaborativo  de Webinar  
+REUNA  pone a disposición de las Instituciones, sin costo y previa reserva, acceso a licencias de webinar, sobre 
+la misma solución de Z oom. Actualmente, se cuenta con  quince (15)  licencias de 5 00 participantes  concurrentes, 
+cuyo uso es compartid o entre todas las instituciones.  
+Dada la alta demanda de este servicio por parte de la comunidad, l as licencias de webinar se han hecho  escasas ; 
+por lo tanto, al momento de programar un evento, se debe tener en cuenta la audiencia real proyectada  
+(participantes  concurrentes)  y la certeza de la realización del mismo.  
+REUNA facilita las capacidades técnicas para la realización del webinar, sin embar go, es de responsabilidad  del 
+organizador  recabar el consentimiento de las personas que participen de los eventos , en relación a la 
+circunstancia de ser transmitidos y su eventual grabación y retransmisiones posteriores . REUNA no se hace 
+responsable de los eventuales reclamos por estas circunstan cias. 
+En caso que la reserva no se utilice o la capacidad solicitada  sea subutilizada , las reservas  futuras del/la 
+usuario/a  podrán no ser  priorizadas.  
+Se recomienda reservar el recurso de webinar con al menos dos semanas de anticipación y avisar  
+oportunam ente, en caso de que la actividad sea cancela da. El procedimiento para reservar una licencia de 
+webinar se encuentra en https://plaza.reuna.cl/webinar/ . 
+3.3 Servicio de Streaming  y Canal de YouTube REUNA  
+Para  transmitir en tiempo real actividades  que se realicen a través de PLAZA, ya sea una videoconferencia o un 
+webinar , los/as usuarios/as podrán hacerlo directamente y en forma autónoma , a través de sus redes sociales 
+(YouTube , Facebook, otras).  Al tratarse d e plataformas externas  a REUNA, es responsabilidad de cada 
+usuario /a conocer los términos y las políticas de los servicios de  streaming  de la plataforma seleccionada .  
+El contenido de las actividades realizadas a través de PLAZA y que sean transmi tidas  en vivo, es de exclusiva 
+responsabilidad del usuario/a que las crea. Asimismo, es de su responsabilidad recabar el consentimiento de 
+las personas que participen de los eventos.  REUNA no se hace responsable de los eventuales reclamos por 
+estas circunstanci as.  
+REUNA pone a disposición de los/las usuarios/as su canal de YouTube  propio, para transmitir eventos que sean 
+enriquecedores y estén  alineados con la misión de la Corporación. REUNA se reserva el derecho de no consentir 
+la transmisión a través de su ca nal, de actividades que se alejen de su misión .  
+El contenido de los videos transmitidos en el canal de YouTube de REUNA es de exclusiva responsabilidad de 
+los/las usuarios/as organizadores de cada actividad, y REUNA no se responsabiliza por la información  contenida 
+en ellos.   
+De todas maneras , la Corporación  podrá bloquear contenidos protegidos a través de propiedad intelectual y/o 
+que infrinjan la legalidad vigente . Si REUNA recibe reclamos de supuestos  afectados por estas condiciones, se 
+reserva el derecho a bloquear los contenidos involucrados, mientras el usuario/a no acredite que cuenta con las 
+autorizaciones requeridas.  
+6 
+ 3.4 Integración con Apps  
+La solución comercial Zoom, provista a través de PLAZA , ofrece a sus usuarios /as la posibilidad de integrarse 
+con una serie de aplicaciones de terceros, disponibles a través del Marketplace de Zoom  
+(https://marketplace.zoom.us/).  REUNA, habilita el acceso para que  sus usuarios /as realicen  integraciones con 
+dichas herramientas, sin perjuicio de lo cual , REUNA solamente brinda asistencia a usuarios /as en temas 
+relativos a Zoom . REUNA no brinda asistencia en lo concerniente a aplicaciones de terceros.  
+Es de exclusiva responsabilidad de los/las usuarios/as conocer y cu mplir con las exigencias de licenciamiento 
+que pudiera tener la aplicación a integrar con Zoom.  
+REUNA se reserva el derecho de deshabilitar integraciones que sean detectadas como riesgosas para la 
+seguridad del servicio PLAZA REUNA  y de sus usuarios finales . 
+3.5 Servicio de Asistencia  
+Para efectos de asistencia a  la institución y/o  usuario/a, REUNA proporciona soporte nivel 2 en horarios de 
+oficina: lunes a jueves, de 9:00 a 17:30 hrs., y viernes de 9:00 a 13:00 hrs ., a través del correo electrónico: 
+servicios@reuna.cl, y del teléfono 223370382. El soporte nivel 1 a usuarios/as es entregado por la Institución  
+adherida a la cual pertenece  la persona.  
+3.6 Acceso al Servicio PLAZA  
+Toda institución asociada a REUNA tendrá de recho a acceder al Servicio PLAZA, sin costos y bajo las 
+condiciones establecidas en este documento.   
+Los/as usuarios/as de las Instituciones que necesiten utilizar  PLAZA, podrán realizarlo  mediante dos 
+modalidades , dependiendo de si su institución cuenta o no con Acceso Federado a los servicios de REUNA : 
+• Usando sus credenciales universitarias  (cuenta  y clave  institucional ): si la Institución cuenta con 
+acceso federado a los servicios de REUNA, todo usuar io/a de la misma a ccede al servicio  de PLAZA  
+directamente  con su  cuenta/clave  institucional  en: https://plaza.reuna.cl/   
+• Solicitando una cuenta vía ID.REUNA.cl: si la I nstitución  aún no se encuentre  federada , todo usuario/a 
+de la misma debe solicitar su cuenta de acceso en: https://id.reuna.cl/solicitar -cuenta/  con su correo 
+institucional . 
+ 
+7 
+ Para saber si una institución tiene  acceso federado a los servicios de REUNA, ingrese a l siguiente enlace 
+https://id.reuna.cl/solicitar -cuenta/  y seleccione su organización . 
+ 
+Dadas las características del Servicio, REUNA se reserva el derecho de eliminar las cuentas de usuario que se 
+mantengan inactivas por un lapso superior a seis meses. Si una persona, con posterioridad a este plazo 
+necesita usar el servicio, deberá solicitar la habilitación de su cuenta de usuario nuevamente en la in stitución 
+a que pertenezca al momento de la nueva solicitud.  
+4 Los/las usuarios/as  y el uso de PLAZA  
+El servicio de PLAZA está disponible sólo para investigadores, directivos, académicos y funcionarios , definidos 
+por las instituciones adscritas a REUNA . Este  servicio tiene  por objetivo  apoyar las labores de docencia, 
+investigación , vinculación  y gestión de las instituciones  beneficiarias  y, por tanto, se priorizará el uso de esta 
+plataforma para el desarrollo de dichas  actividades, por sobre usos privados que  puedan dar le los/las 
+usuarios/as.  
+REUNA no at iende directamente solicitudes  de alumnos /alumnas  para utilizar Licencias Zoom Education . En 
+aquellos casos que se requiera otorgar un acceso, la Institución a que el /la estudiante pertenezca deberá 
+autorizar l a solicitud e informarla a REUNA , a través de los canales formales que la institución haya definido 
+para este servicio . 
+ 
+4.1 Consideraciones para el uso  de PLAZA  
+Cada uno de los servicios que componen PLAZA  están sujeto s a los términos y condiciones de sus titulares  (por 
+ejemplo: Zoom, YouTube, Facebook, Apps disponibles en Marketplace, etc.). REUNA no interviene en la 
+elaboración de dichos términos y condiciones, y es de responsabilidad de los usuarios/as consultarlos y atender 
+a los requerimientos del proveedor.  
+Cada usuario/a es responsable de programar y compartir la información de acceso de sus actividades 
+(videoconferencia /webinar ). REUNA  no se hace cargo de los problemas que puedan darse en una reunión si el 
+o los c onvocantes hacen públicos los datos de conexión.  
+
+8 
+ Es de responsabilidad del usuario, grabar el contenido de la reunión, si desea mantener registro de la misma. 
+REUNA no mantiene respaldos de las grabaciones de los usuarios.  
+El contenido de las videoconferen cias/webinar  realizadas mediante PLAZA es responsabilidad del usuario/a que 
+organiza la reunión y no representan necesariamente la línea corporativa de REUNA . REUNA no hace revisión  
+ni control  del contenido de las sesiones  que se realizan a través de PLAZA , ni almacena el contenido de las 
+reuniones, por lo que no atenderá solicitudes relativas a estos aspectos . 
+Es responsabilidad del /la usuario/a seguir las recomendaciones de seguridad establecidas por Zoom y REUNA, 
+para el uso del Servicio  y mantener actualizada su versión de la solución . Asimismo, es de su  responsabilidad 
+revisar la documentación y manuales de uso de PLAZA . A continuación,  se entregan los enlaces para  la 
+documentación de base :  
+• Los instructivos de P LAZA  se encuentran dispo nibles en: https://plaza.reuna.cl/instructivos/   
+• Los instructivos, guías y tutoriales de Zoom se encuentran disponibles en: https://support.zoom.us/hc/es   
+• La documentación de términos de servicios, condiciones, avisos y políticas de Zoom, se encuentran 
+disponibles en: https://zoom.us/docs/es -es/privacy -and-legal.html .  
+4.2 Uso responsable de l servicio  
+Se debe tener en cuenta que todo lo ejecutado bajo el perfil de cada usuario se atribuirá a su persona. Es 
+responsabilidad del /la usuario/a mantener la privacidad de sus claves y no compartirlas con terceros. Si la 
+persona detecta cualquier probl ema que comprometa la seguridad de su Cuenta  y Contraseña debe rá 
+comunicarlo de inmediato a la Mesa de Ayuda  o Área de Soporte  de su institución , o al Representante Técnico  
+de la misma ( https://www.reuna.cl/organizacion/#representantes -tecnicos ). 
+La Institución disponibiliza estos servicios  a su comunidad  para los fines que le son propios, de preferencia para 
+actividades de  docencia, investigación y gestión institucional. Es res ponsabilidad del usuario/a hacer un uso 
+racional de los recursos disponibles, procurando no abusar de las capacidades y servicios.  
+Queda estrictamente prohibido hacer un uso comercial o con cualquier otro propósito no compatible con aquel 
+que motivó su oto rgamiento.  
+El uso de los servicios debe ser respetando las normativas y leyes vigentes. Queda estrictamente prohibido 
+utilizar  los servicios de PLAZA , ni ninguno de los servicios otorgados a través de REUNA, para crear, subir o 
+distribuir contenido que con stituya o esté relacionado con:  
+• Explotación infantil o abuso de menores.  
+• Promover, organizar o participar en actividades ilegales.  
+• Fraude, suplantación de identidad (phishing) y otras prácticas engañosas.  
+• Acoso, intimidación y amenazas.  
+• Incitación al odio,  incluyendo todo aquel contenido que promueva la violencia hacia una persona o un 
+grupo por su raza u origen étnico, religión, nacionalidad, orientación sexual, identidad de género u otra 
+característica que esté asociada a la discriminación.  
+9 
+ • Software malic ioso y otros contenidos perjudiciales similares. Esto incluye el alojamiento directo, la 
+inserción o la transmisión de software malicioso, virus, código dañino o cualquier otro tipo de software 
+dañino o no deseado.  
+• Información personal y confidencial de ot ras personas, sin su autorización.  
+• Contenido sexual explícito, como desnudos o contenido pornográfico.  
+• Terrorismo.  
+• Cualquier otra finalidad ilícita o contraria a la moral y buenas costumbres.  
+• Material sujeto a propiedad intelectual sin contar con los debid os permisos para compartirlo.  
+4.3 Pérdida de la condición de usuario/a  
+El no cumplimiento de l Uso Responsable del Servicio  faculta a REUNA para suspender  el acceso a PLAZA 
+temporal o totalmente , e inhabilitar la cuenta ID.REUNA  del usuario/ a, notificando  de es to a la institución a la 
+que pertenece . Asimismo, REUNA y/o la Institución  podrán  inhabilitar a un/a usuario/a si se detecta un uso 
+fraudul ento de su cuenta  y/o que ha actuado en contravención a la buena fe.  
+REUNA podría, eventualmente, inhabilitar una cuenta de usuario/a, si recibe la instrucción de parte de la 
+institución a la cual dicho usuario/a pertenece. Se debe tener en c onsideración  que en estos casos REUNA no 
+tiene competencias para restablecer la condición de usuario/a. En este caso, el usuario/a deberá consultar a la 
+Mesa de Ayuda  o Área de Soporte  de su  Institución y hacer las gestiones para reponer su cuenta  a través de 
+dicha instancia . 
+Si una cuenta figura con suspensión del servicio o inhabilitad a, y se cree que se trata de un error, el usuario/a  
+debe rá contactarse con la  Mesa de Ayuda o Área de Soporte de su I nstituci ón. 
+Se debe tener en cuenta  que los titulares de cada uno de los servicios que componen PLAZA (Z oom y/o YouTube ) 
+también podrían, eventualmente, suspender o inhabilitar de manera definitiva una cuenta de usuario/a, si se 
+detectan infracciones a sus Políticas de Uso. En este caso, REUNA no es responsable por esta decisión  ni tiene 
+competencias para restablecer la cue nta de usuario . 
+Si un/a usuario/a permanece inactivo por un periodo superior a 6 meses, sin hacer inicio de sesión en la 
+plataforma PLAZA, su cuenta de acceso  y registros  podría n ser eliminad os. En caso que el/la usuario/a quiera 
+volver a utilizar este ser vicio, tendrá que reactivar su cuenta  accediendo al servicio tal como se indica en el punto 
+3.6 de estas políticas.  
+5 Obligaciones y Derechos  
+5.1 Obligaciones y Derechos de REUNA  
+El Servicio es gestionado  por REUNA, la Red Nacional de Investigación y Educación.  
+Además de lo señalado en cualquier otra sección de este documento, REUNA:  
+10 
+ 1. Debe  establecer los criterios de aceptación de usuarios/as  al Servicio . 
+2. Puede revocar la autoriz ación de uso del Servicio si un /a usuario/a  incumple lo dispuesto en este 
+documento.  
+3. Puede evaluar y determinar futuras mejoras para el Servicio . 
+4. Puede modificar las capacidades del servicio , en función de las necesidades y definiciones de la 
+Corporación.  
+5. Debe informar a las Instituciones las modificaciones que puedan afectar  las condiciones de prestación 
+del servicio.  
+6. Puede realizar y autorizar cambios en l os términos de uso  del Servicio . 
+7. Debe dejar disponible e informar a las instituciones  la versión vigente de lo s términos y condiciones de 
+uso del Servicio . 
+8. Debe administrar  y publicar la información del Servicio en la web de PLAZA (plaza.reuna.cl) . 
+9. Debe prestar apoyo a las correspondien tes personas de contacto de las instituciones , para resolver 
+problemas operativos con respecto al Servicio . 
+10. Puede publicar la lista de Instituciones  Beneficiarias para efectos de promoción del Servicio . 
+11. Debe resguardar la confidencialidad de la información de los u suarios /as del Servicio.  
+5.2 Obligaciones y Derechos de las Instituciones beneficiarias del Servicio  
+El responsable del Servicio e n la Institución será el Representante Técnico ante REUNA, a menos que se indique 
+un contacto técnico adicional.  
+ 
+Además de lo señalado en cualquier otra sección de este documento , la institución beneficiaria  del Servicio:  
+1. Debe adoptar l os términos y condiciones de uso del Servicio  en su versión vigente.  
+2. Debe mantener vigente la información del contacto técnico asignado para el Servicio y definir los 
+contactos para el Soporte Nivel 1 para su comunidad de usuarios.  
+3. Debe avisar y cooperar con REUNA en la resolución de incidencias que afecten la disponibilidad y 
+seguridad del Servicio . 
+4. Debe propiciar el uso  del Servicio sólo para los fines propios y exclusivos de  su institución . 
+5. Debe informar a REUNA los dominios asociados a estudiantes , si los tuviera diferenciados , para 
+canalizar sus acceso s hacia Licencias Básicas.  
+6. Debe informar, al menos una vez al año, las cuentas de l perso nal de su comunidad que se haya  retirado 
+de la Institución , para que sean borradas de las cuentas de usuarios/as  de PLAZA .  
+7. Debe mencionar a REUNA como el Gestor  del Servicio  en todos los canales de comunicación asociados 
+al mismo  y en sus acciones de difusión.  
+6 Privacidad de los Datos  
+REUNA no comparte con terceros  la información generada por el Servicio , solo utiliza  dicha información  para 
+finalidades de identificación, gestión del servicio y estadísticas  agregadas . REUNA trat ará los datos personales 
+solo para la administración de  cuentas  y las finalidades antes mencionadas . 
+11 
+ REUNA no comparte información de  detalle de  las comunicaciones de los/las usuario s/as a través de PLAZA . 
+Sin embargo, podría verse obligada a entregar alguna información por orden de una autoridad judicial o 
+administrativa, en el ámbito de sus competencias.  
+En cada caso, conforme a la ley vigente,  REUNA deberá evaluar la solicitud y calificar aquellos casos en que 
+deberá entregar la información.  
+7 Limitación de responsabilidad  
+REUNA no se hace responsable por eventuales pérdidas o daños, tales como : material audiovisual, documentos 
+u otros elementos o mensajes, que sufran las personas con ocasión de fallas derivadas del uso de PLAZA . 
+Asimismo, no se hace responsable del mal uso que hagan los/las usuarios/as de las instituciones asociadas a 
+la Corporación , respecto de dichos servicios.  
+REUNA podrá limitar las capacidades disponibles para cada  Institución y/o  usuario/a, por razones de equidad, 
+eficiencia o de priorización del servi cio PLAZA, en el entendido que é ste es un servicio compartido y que opera 
+bajo e l concepto de mejor esfuerzo.  
+8 Modificació n de las P olíticas  y Términos de Uso  
+REUNA se reserva el derecho a modificar estas políticas. En caso de que esto suceda, informará a la Instituci ón 
+asociada a través de su página web, sin perjuicio de enviar un correo electrónico al encargado técnico, avisando 
+de esta circunstancia , en un plazo de 10 días antes de que entren en vigencia . 
+Será responsabilidad de cada institución descargar, revisar  y difundir  las nuevas políticas  al interior de  su 
+comunidad .

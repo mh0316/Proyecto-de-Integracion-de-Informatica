@@ -1,0 +1,23 @@
+2
+4Autentica tu cuenta:
+Ingresa tu RUT (sin puntos ni guión)
+seguido de “@ufromail.cl” y tu
+clave de intranet.
+Comienza a usar la app:
+Si tus credenciales son válidas, ¡ya
+puedes utilizar la APP TUI UFRO!
+GUÍA PARA
+DESC ARGAR E
+INS TALA R  APP TUI
+UFR O
+1Descarga la aplicación según tu
+dispositivo:
+Si tienes Android, busca
+“UFRO” en la Play Store.
+Si tienes iOS, busca “UFRO” en
+la App Store.
+Instala y abre la app:
+Descarga la aplicación y ábrela en tu
+dispositivo móvil.
+3
+dinfo.ufro.cl - desarrolloytransformaciondigital.ufro.cl                 Dinfo UFRO                 Dirección de Informática UFRO

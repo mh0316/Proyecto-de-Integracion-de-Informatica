@@ -1,0 +1,422 @@
+/* Variables de Diseño */
+:root {
+    --primary-color: #004B87;    /* Azul Institucional */
+    --secondary-color: #0072CE;  /* Azul Claro */
+    --bg-light: #F4F6F9;
+    --text-dark: #2D3748;
+    --text-light: #FFFFFF;
+    --bot-msg-bg: #E2E8F0;
+    --user-msg-bg: #004B87;
+    --border-radius: 16px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    /* MODIFICADO: Capa de degradado radial azul difuminado superpuesta a tu imagen institucional */
+    background-image: 
+        radial-gradient(circle at center, rgba(0, 114, 206, 0.1) 0%, rgba(0, 43, 84, 0.85) 70%, rgba(0, 26, 51, 0.95) 100%),
+        url('../assets/img/Fondo\ UFRO\ 2.png'); 
+    
+    /* 2. Color de respaldo (se muestra mientras la imagen carga) */
+    background-color: #004B87; 
+    
+    /* 3. Propiedades críticas de escalado y comportamiento */
+    background-size: cover;          /* Cubre toda la pantalla proporcionalmente sin deformar */
+    background-position: center;     /* Centra la imagen horizontal y verticalmente */
+    background-repeat: no-repeat;    /* Evita que la imagen se duplique como mosaico */
+    background-attachment: fixed;    /* Mantiene el fondo quieto si hay elementos con scroll */
+    
+    /* 4. Estructura de centrado del chat */
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Contenedor Principal */
+.chat-container {
+    width: 100%;
+    max-width: 450px;
+    height: 90vh;
+    background-color: var(--text-light);
+    border-radius: var(--border-radius);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+@media (max-width: 480px) {
+    .chat-container {
+        height: 100vh;
+        border-radius: 0;
+    }
+}
+
+/* Cabecera */
+.chat-header {
+    background-color: var(--primary-color);
+    color: var(--text-light);
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid rgba(0,0,0,0.1);
+}
+
+.header-info {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+/* Contenedor del avatar configurado como máscara esférica fija */
+.avatar-institucional {
+    background-color: var(--text-light);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;         
+    flex-shrink: 0;           
+    border: 1px solid rgba(255, 255, 255, 0.3); 
+}
+
+.avatar-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;        
+    object-position: center;  
+}
+
+.header-info h2 {
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.status-indicator {
+    font-size: 0.75rem;
+    color: #A0AEC0;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.dot {
+    width: 8px;
+    height: 8px;
+    background-color: #48BB78;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+/* Estilos de la máscara del logo institucional */
+.header-logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo-img {
+    max-height: 55px;
+    width: auto;
+    object-fit: contain;
+    opacity: 0.9;
+}
+
+/* Zona de Mensajes */
+.chat-messages {
+    flex: 1;
+    padding: 20px;
+    background-color: var(--bg-light);
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+/* Estructura de las Burbujas */
+.message {
+    max-width: 80%;
+    display: flex;
+    flex-direction: column;
+}
+
+.message-content {
+    padding: 12px 16px;
+    font-size: 0.95rem;
+    line-height: 1.4;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+}
+
+.message-time {
+    font-size: 0.7rem;
+    color: #718096;
+    margin-top: 4px;
+    padding: 0 5px;
+}
+
+/* Bot de Respuesta */
+.bot-message {
+    align-self: flex-start;
+}
+
+.bot-message .message-content {
+    background-color: var(--bot-msg-bg);
+    color: var(--text-dark);
+    border-radius: 4px var(--border-radius) var(--border-radius) var(--border-radius);
+}
+
+/* Usuario Alumno */
+.user-message {
+    align-self: flex-end;
+}
+
+.user-message .message-content {
+    background-color: var(--user-msg-bg);
+    color: var(--text-light);
+    border-radius: var(--border-radius) 4px var(--border-radius) var(--border-radius);
+}
+
+/* Barra de Escritura Inferior */
+.chat-input-area {
+    padding: 15px;
+    background-color: var(--text-light);
+    border-top: 1px solid #E2E8F0;
+}
+
+.chat-input-area form {
+    display: flex;
+    gap: 10px;
+}
+
+.chat-input-area input {
+    flex: 1;
+    padding: 12px 15px;
+    border: 1px solid #CBD5E0;
+    border-radius: 25px;
+    outline: none;
+    font-size: 0.95rem;
+    transition: border 0.2s;
+}
+
+.chat-input-area input:focus {
+    border-color: var(--secondary-color);
+}
+
+.chat-input-area button {
+    background-color: var(--primary-color);
+    color: var(--text-light);
+    border: none;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    transition: background 0.2s, transform 0.1s;
+}
+
+.chat-input-area button:hover {
+    background-color: var(--secondary-color);
+}
+
+.chat-input-area button:active {
+    transform: scale(0.95);
+}
+
+/* Animación de Carga (Puntos Suspensivos flotando) */
+.typing-indicator {
+    background-color: var(--bg-light);
+    padding: 0 25px 10px 25px;
+    display: none;
+    align-items: center;
+    gap: 4px;
+}
+
+.typing-indicator span {
+    width: 8px;
+    height: 8px;
+    background-color: #A0AEC0;
+    border-radius: 50%;
+    animation: bounce 1.3s infinite ease-in-out;
+}
+
+.typing-indicator span:nth-child(2) { animation-delay: 0.15s; }
+.typing-indicator span:nth-child(3) { animation-delay: 0.3s; }
+
+@keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-6px); }
+}
+
+/* ==========================================================================
+   CONTROL DINÁMICO DE ÍCONOS DEL BOTÓN PRINCIPAL
+   ========================================================================== */
+
+/* Por defecto, ocultamos el avión de papel */
+#sendBtn .icon-send {
+    display: none;
+}
+
+/* Si el botón cambia a modo envío, ocultamos el micrófono y activamos el avión */
+#sendBtn.mode-send .icon-mic {
+    display: none;
+}
+
+#sendBtn.mode-send .icon-send {
+    display: flex;
+}
+
+#sendBtn.mode-mic {
+    background-color: var(--primary-color);
+}
+
+/* ==========================================================================
+   NUEVOS CONTROLES MULTIMEDIA (BARRA ROJA, BASURERO Y PAUSA)
+   ========================================================================== */
+
+/* Layout que agrupa la fila de animación y la botonera de utilidades */
+.audio-controls-layout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 12px;
+    background-color: #FFF5F5;
+    padding: 10px;
+    border-radius: 12px;
+    border: 1px dashed #FEB2B2;
+}
+
+/* Contenedor de las barras ecualizadoras */
+.audio-animation-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    height: 30px;
+}
+
+/* Diseño de filamentos individuales */
+.audio-animation-container .bar {
+    width: 4px;
+    height: 5px;
+    background-color: #E53E3E;
+    border-radius: 2px;
+    animation: soundWave 0.5s infinite ease-in-out alternate;
+}
+
+/* Retardos para simular variaciones de frecuencia reales */
+.audio-animation-container .bar:nth-child(1) { animation-delay: 0.1s; }
+.audio-animation-container .bar:nth-child(2) { animation-delay: 0.3s; }
+.audio-animation-container .bar:nth-child(3) { animation-delay: 0.0s; }
+.audio-animation-container .bar:nth-child(4) { animation-delay: 0.4s; }
+.audio-animation-container .bar:nth-child(5) { animation-delay: 0.2s; }
+
+@keyframes soundWave {
+    0% { height: 5px; }
+    100% { height: 28px; }
+}
+
+/* Fila de utilidades (Botón de Descarte y Control de Estado) */
+.audio-action-buttons {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 140px; 
+    padding: 0 10px;
+}
+
+/* Estilo base para botones circulares de acción secundaria */
+.audio-action-btn {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.95rem;
+    transition: all 0.2s ease;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* Botón Basurero */
+.delete-btn {
+    background-color: #FEE2E2;
+    color: #EF4444;
+}
+.delete-btn:hover {
+    background-color: #EF4444;
+    color: white;
+}
+
+/* Botón Pausa / Reproducción */
+.pause-btn {
+    background-color: #EBF8FF;
+    color: #3182CE;
+}
+.pause-btn:hover {
+    background-color: #3182CE;
+    color: white;
+}
+
+/* CLASE DINÁMICA: Congela los fotogramas y apaga el color de las barras en pausa */
+.audio-animation-container.paused .bar {
+    animation-play-state: paused;
+    background-color: #A0AEC0 !important; 
+}
+
+/* ==========================================================================
+   REPRODUCTOR DE AUDIO INCRUSTADO EN BURBUJAS (BOT TTS)
+   ========================================================================== */
+
+/* Contenedor de controles TTS dentro de la burbuja del bot */
+.tts-audio-controls {
+    display: flex;
+    gap: 8px;
+    margin-top: 6px;
+    padding-left: 2px;
+}
+
+/* Estilo general para los botones de voz */
+.tts-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 0.95rem;
+    color: var(--primary-color);
+    padding: 4px 8px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.2s ease;
+}
+
+.tts-btn:hover {
+    background-color: rgba(0, 75, 135, 0.1);
+    color: var(--secondary-color);
+}
+
+/* Botón de detener definitivo (Rojo sutil al hover) */
+.btn-stop:hover {
+    background-color: #FFE3E3;
+    color: #E53E3E;
+}
+
+/* CLASE DE CONTROL CRÍTICO: Oculta componentes de la vista mediante fuerza bruta */
+.hidden {
+    display: none !important;
+}

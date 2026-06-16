@@ -1,0 +1,132 @@
+Dirección de Informática de la Universidad de La Frontera  
+https://dinfo.ufro.cl  
+ 
+ 
+ 
+INSTALACIÓN DEL CLIENTE VPN  
+ 
+1) Ingres e a: https://www.fortinet.com/lat/support/product -downloads#vpn  y 
+descarg ue la versión correspondiente a su sistema operativo . 
+ 
+ 
+ 
+2) Abra el archivo descargado y contin úe con las instrucciones de instalación . 
+ 
+ 
+
+ 
+ 
+Dirección de Informática de la Universidad de La Frontera  
+https://dinfo.ufro.cl  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Dirección de Informática de la Universidad de La Frontera  
+https://dinfo.ufro.cl  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Dirección de Informática de la Universidad de La Frontera  
+https://dinfo.ufro.cl  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONFIGURACIÓN DEL CLIENTE VPN  
+ 
+ 
+ 
+ 
+1. NOMBRE DE LA CONEXION: UFRO VPN  
+2. GATEWAY REMOTO: 200.10.17.114  
+3. Marque la casilla “PERSONALIZAR PUERTO” y modifi que el número de puerto 
+a: 11443  
+4. Clic en el botón “Guardar”  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Dirección de Informática de la Universidad de La Frontera  
+https://dinfo.ufro.cl  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONECTARSE A LA RED VPN  
+ 
+Ingres e el NOMBRE DE USUARIO y CONTRASEÑA provista por la Dirección de 
+Informática . Si no posee una cuenta , la puede solicitar en el siguiente enlace : 
+https://dinfo.ufro.cl/solicitud -de-cuenta -vpn-ufro/ . 
+ 
+ 
+ 
+ 
+Aparecerá una alerta de seguridad en la cual debe hacer clic en “Sí”  
+ 
+ 
+ 
+
+ 
+ 
+Dirección de Informática de la Universidad de La Frontera  
+https://dinfo.ufro.cl  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aparecerá el mensaje de “VPN Connected” indicando que la conexión se realizó con 
+éxito . Si desea desconectarse de la red VPN , solo debe hacer clic en el botón 
+“Disconnect”.

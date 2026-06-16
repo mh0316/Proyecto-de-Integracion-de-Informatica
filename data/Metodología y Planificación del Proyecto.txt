@@ -1,0 +1,203 @@
+Metodología y Planiﬁcación de Proyecto 
+ 
+1.  Metodología de Desarrollo 
+ 
+Para el diseño, construcción e implementación del sistema se seleccionó una 
+Metodología Ágil Iterativa e Incremental. Este enfoque es el más adecuado para 
+proyectos que involucran Inteligencia Artiﬁcial y arquitecturas RAG (Retrival-
+Augmented Generation), ya que permiten calibrar y reﬁnar los modelos de lenguaje, el 
+tamaño de los fragmentos de información y las respuestas del agente basándose en 
+pruebas continuas. 
+ 
+El método se estructura en las siguientes etapas secuenciales iterativas, con 
+productos especíﬁcos deﬁnidos para cada una: 
+ 
+- Fase 1  Planiﬁcación, Requerimientos y Contexto:  En esta etapa inicial se 
+deﬁne el alcance del sistema de atención y se recopilan los manuales técnicos, 
+instructivos y reglamentos del área informática de la UFRO. Se establece el 
+stack tecnológico base y se terminan las restricciones operativas.  
+ 
+ Productos Asociados:  Documentos de problemática, alcance, objetivos, 
+dominios del problema y estados del arte (tecnológico y cientíﬁco).  
+ 
+- Fase 2  Especiﬁcación de Requerimientos, Diseño y Arquitectura:  
+Corresponde a la deﬁnición formal de cómo operará el sistema. Aquí se modela 
+la estructura estática y dinámica del sistema utilizando el modelo de vistas 4+1. 
+Se deﬁnen las entidades de datos, los ﬂujos conversacionales, el pipeline de 
+ingesta/búsqueda RAG y la topología física de despliegue.  
+ 
+ Productos Asociados:  Documento de especiﬁcaciones de software (que 
+incluye diagramas de casos de uso, de actividades y de estados), y el diseño 
+de las arquitecturas estructural, funcional y “look & feel”.  
+ 
+- Fase 3  Desarrollo Core (Backend/RAG) e Implementación del Frontend: 
+Se codiﬁcan los endpoints en FastAPI y se conﬁgura LlamaIndex para el 
+procesamiento O Ưline de documentos (lectura, fragmentación con 
+TokenTextSplitter y generación de embbedings). Estos vectores se idexan 
+localmente en la base de datos ChromaDB. Se integran las llamadas API hacia 
+Claude 3.7 Sonnet para la lógica de orquestación y generación de respuestas 
+enriquecidas con citas de fuentes universitarias oﬁciales. Paralelamente, se 
+diseña e implementa la interfaz visual (Look & feel) del widget web en HTML/JS 
+o React. Se realiza la integración con la Web Speech API nativa del navegador 
+para habilitar de forma directa y sin costes los canales de entrada por vox 
+(micrófono) y salida (síntesis de audio).  
+ 
+ Productos Asociados:  Prototipo (MVP) con backend operativo, base de 
+datos vectorial poblada y Widget Web integrado.  
+ 
+- Fase 4  Pruebas, Validación y Cierre:  Se ejecutan pruebas de estrés con 
+usuarios reales, evaluación de la calidad de las respuestas (evitando 
+alucinaciones mediante el nodo Self-RAG) y pruebas de usabilidad. Se valida el 
+correo funcionamiento del registro de logs en tiempo real hacia la API de Google 
+Sheets y la monitorización avanzada en Langfuse. Se concluye con la entrega 
+ﬁnal del prototipo, el empaquetado del widget mediante un script embebido y 
+su integración ﬁnal dentro del Campus Virtual de la universidad.  
+ 
+ Productos Asociados:  Informe ﬁnal del proyecto, sistema auditado, 
+entrega ﬁnal y video.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Diagrama de Fases de la Metodología:  
+ 
+ 
+
+2. Estrategia de Implementación 
+ 
+La implementación del sistema consolida todas las entregas previas y futuras en un 
+ciclo de desarrollo lógico. Comienza con la base teórica (problemática, objetivos y 
+estados del arte), para luego traducir esa necesidad en requerimientos formales 
+mediante el documento de especiﬁcaciones (con sus diagramas de casos de uso, 
+actividades y estados). Posteriormente, esto se materializa en el diseño de las tres 
+arquitecturas clave (estructuras, funcional y “look & feel”), lo cual permite construir y 
+describir el Producto Mínimo Viable (MVP). El proyecto culmina con el informe ﬁnal y la 
+presentación en video, evidenciando el funcionamiento de la solución implementada. 
+ 
+Recursos a Utilizar: 
+- Recursos Humanos:  Propietario del proyecto como desarrollador 
+(considerando ingeniería de software, Arquitectura RAG y Diseño UI/UX).  
+- Recursos Tecnológicos (Hardware):  Servidores locales para alojamiento del 
+Bakcned (FastAPI) y la Base de Datos Vectorial (ChromaDB), y equipos de 
+cómputo para desarrollo.  
+- Recursos Tecnológicos (Software/Servicios):  Framework FastAPI, 
+LlamaIndex, ChromaDB, Claude 3.7 Sonnet (Anthropic API), React/JS, Web 
+Speech API, Google Sheets y Langfuse.  
+ 
+Insumos: 
+- Manuales técnicos, instructivos y reglamentos no estructurados del área 
+informática y de soporte de la UFRO. 
+- Documentación institucional requerida para alinear el “look & feel” a la 
+identidad gráﬁca de la universidad. 
+ 
+Resultados Evaluables y Medibles: 
+1. Métrica de Relevancia y Precisión (RAG):  Porcentaje de respuestas generadas 
+que incluyen citas exactas a los manuales UFRO sin presentar alucinaciones o 
+información inventada.  
+2. Métrica de Latencia:  Tiempo de respuesta del sistema desde que se recibe el 
+audio/texto hasta que se sintetiza la respuesta en el navegador (objetivo: < 3 
+segundos).  
+3. Tasa de Resolución Autónoma:  Porcentaje de consultas de los estudiantes 
+que son resueltas por el Widget si necesidad de escalar a la Mesa de Ayuda.  
+4. Completitud de Entregables:  Cumplimiento del 100% de las entregas 
+documentales requeridas (Arquitecturas, MVP, Informe Final, Video) en los 
+plazos estipulados.  
+ 
+ 
+3. Planiﬁcación, Seguimiento y Control 
+ 
+Para garantizar el cumplimiento de los objetivos en los plazos estipulados, se 
+estructuró una planiﬁcación temporal de 4 meses desde la selección de la 
+problemática hasta el cierre del proyecto. 
+ 
+Para el control de actividades, asignación de tareas y gestión del avance diario se 
+utilizará Trello (o Github Projects), aplicando un tablero Kanban con columnas de 
+estado: Por hacer (Backlog), En proceso (QA) y Hecho (Done). Esta herramienta ágil 
+permitirá identiﬁcar cualquier tipo de problema de manera temprana durante las 
+iteraciones de desarrollo del pepiline RAG. 
+ 
+Planiﬁcación del Proyecto 
+A continuación, se detalla el cronograma de actividades distribuidas a lo largo del 
+proyecto: 
+ 
+Mes Semana Fase / Actividades Principales  Hito / Entrega Semanal Esperada  
+Mes 1 1 Deﬁnición de la problemática, 
+alcance y objetivos principales. Documento de Problemática y 
+Objetivos. 
+ 
+2 Análisis de los dominios del 
+problema y recolección de 
+insumos (manuales UFRO). Deﬁnición de Dominios y Casos de 
+Uso preliminares. 
+ 
+3 Investigación de tecnologías.  Documento de Estado del Arte 
+(Tecnológico y Cientíﬁco). 
+ 
+4 Elaboración de especiﬁcaciones 
+de software y diagramación 
+formal. Especiﬁcaciones: Diagramas de 
+Casos de Uso y Actividades. 
+Mes 2 5 Finalización de especiﬁcaciones 
+de comportamiento. Especiﬁcaciones: Diagrama de 
+Estados. 
+ 
+6 Diseño de la Arquitectura 
+Estructural y Funcional (Modelo 
+4+1, Flujo RAG). Documento de Arquitectura Lógica 
+y de Procesos. 
+ 
+7 Diseño visual de la interfaz.  Arquitectura "Look & Feel" 
+(Wireframes UI/UX). 
+ 
+8 Conﬁguración del entorno base y 
+pre-procesamiento RAG. Base de datos ChromaDB con 
+instructivos vectorizados. 
+Mes 3 9 Desarrollo Core del Backend y 
+conexión con API de Claude 3.7.  Endpoints operativos en FastAPI y 
+Prompt estructurado. 
+ 
+10 Construcción del Widget Web e 
+integración de Web Speech API 
+(Voz/Texto). Interfaz Frontend multimodal 
+operativa. 
+ 
+11 Ensamblaje de los 
+componentes. Descripción y Demo técnica del 
+MVP. 
+ 
+12 Implementación de telemetría, 
+logs (Google Sheets) y control de 
+calidad (Self-RAG). Sistema auditado y conectado a 
+paneles de control. 
+Mes 4 13 Pruebas exhaustivas, mitigación 
+de alucinaciones y ajustes 
+ﬁnales de interfaz. Reporte de pruebas y ajustes 
+aplicados. 
+ 
+14 Despliegue del prototipo.  Sistema empaquetado para el 
+Campus Virtual. 
+ 
+15 Consolidación de toda la 
+documentación generada en el 
+proyecto. Informe Final del Proyecto.  
+ 
+16 Grabación y edición del 
+funcionamiento del sistema. Entrega Final: Video de 
+Presentación.

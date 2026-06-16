@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot Universitario - UFRO</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <div class="chat-container">
+        <header class="chat-header">
+            <div class="header-info">
+                <div class="avatar-institucional">
+                    <img src="assets/img/Bandurria.png" alt="Avatar UFRO" class="avatar-img">
+                </div>
+                <div>
+                    <h2>Bandurr-IA</h2>
+                    <span class="status-indicator"><p class="dot"></p> En línea</span>
+                </div>
+            </div>
+            <div class="header-logo">
+                <img src="assets/img/Logo UFRO.png" alt="Logo UFRO" class="logo-img">
+            </div>
+        </header>
+
+        <main class="chat-messages" id="chatMessages">
+            <div class="message bot-message">
+                <div class="message-content">
+                    ¡Hola! Soy Bandurr-IA, tu Asistente Virtual Universitario. Estoy entrenado con los manuales y reglamentos de la UFRO para brindarte la información que necesites. ¿En qué te puedo ayudar hoy?
+                </div>
+                
+                <div class="tts-audio-controls">
+                    <button type="button" class="tts-btn btn-listen" title="Escuchar respuesta">
+                        <i class="fa-solid fa-volume-high"></i>
+                    </button>
+                    <button type="button" class="tts-btn btn-stop hidden" title="Detener reproducción de forma definitiva">
+                        <i class="fa-solid fa-square"></i>
+                    </button>
+                </div>
+                
+                <span class="message-time">Ahora</span>
+            </div>
+        </main>
+
+        <div class="typing-indicator" id="typingIndicator">
+            <span></span><span></span><span></span>
+        </div>
+
+        <footer class="chat-input-area">
+            <div id="audioControlsContainer" class="audio-controls-layout" style="display: none;">
+                <div class="audio-animation-container" id="audioAnimation">
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                </div>
+                
+                <div class="audio-action-buttons">
+                    <button type="button" id="deleteAudioBtn" class="audio-action-btn delete-btn" title="Descartar audio">
+                        <i class="fa-solid fa-trash-can"></i>
+                    </button>
+                    <button type="button" id="pauseAudioBtn" class="audio-action-btn pause-btn" title="Pausar grabación">
+                        <i class="fa-solid fa-pause" id="pauseIcon"></i>
+                    </button>
+                </div>
+            </div>
+
+            <form id="chatForm" autocomplete="off">
+                <input 
+                    type="text" 
+                    id="userInput" 
+                    placeholder="Escribe tu consulta o manda un audio..." 
+                    required
+                >
+                <button type="submit" id="sendBtn" class="mode-mic">
+                    <i class="fa-solid fa-microphone icon-mic"></i>
+                    <i class="fa-solid fa-paper-plane icon-send"></i>
+                </button>
+            </form>
+        </footer>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

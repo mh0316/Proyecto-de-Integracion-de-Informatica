@@ -1,0 +1,150 @@
+Procedimiento Docente para Clases 
+Virtuales  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dirección de Informática  
+Universidad de La Frontera  
+ 
+ 
+ 
+ 
+ 
+Temuco, mayo  de 2020   
+
+Tabla de contenido s 
+¿A qué apunta el siguiente procedimiento docente?  ................................ ................................ ...... 1 
+Procedimiento Docente  ................................ ................................ ................................ .................  1 
+Anexo 1: For mas de Difundir e invitar a la clase virtual  ................................ ................................ ... 4 
+ 
+  
+ Procedimiento Docente para Clases Virtuales  
+ 
+Página 1 
+¿A qué apunta el siguiente procedimiento docente ? 
+Es una ayuda para el docente que,  a través de un listado de actividades, entrega un a secuencia  
+para apoyar la organización de clases virtuales.  
+Procedimiento Docente  
+Los pasos más importantes a seguir son:  
+ 
+1) Descargar el horario de la asignatura en intranet , menú: Académico  → Horario Académico 
+→ Horario  → ahí sale el horario y se puede exportar a Excel.  
+ 
+2) Descargar la nómina de alumnos desde intranet, menú : Académico → Asignaturas, en el 
+ícono  en la parte de Opciones, aparece la nómina de alumnos.  
+ 
+Figura 1:  O bt ener Nómina  de alumnos .  
+3) En calendar  de Google : 
+3.1) Asignar las horas de las clase s de la asignatura por el semestre (ver manual  Uso de 
+Meet en la Docencia, Página 5 ) 
+ 
+3.2) Incluir en la lista de invitados la lista de correos de los alumnos ( Ver Anexo 1, Punto 
+1). Esta es la primera opción de cómo  hacer llegar la invitación a la clase a los estudiantes.  
+ 
+3.3) Si no incluimos la lista de invitados ingresando los correos de los alumnos, podemos 
+copiar el link a la reunión M eet y copiarlo después en campus vi rtual o enviarlo vía correo 
+electrónico. M ientras creamos la reunión en el calendar, veremos que al agregar la opción 
+de conferencia a través de Meet  nos aparece el ID de la Reunión ( ver manual  Uso de Meet 
+en la docencia, Figura 11, Página 7), ese enlace lo seleccionamos y copiamos para poder 
+difundirlo con los estudiantes por el medio que m ás nos acomode.  
+ 
+ 
+
+ Procedimiento Docente para Clases Virtuales  
+ 
+Página 2 
+4) En campus virtual  https://campusvirtual.ufro.cl/  en el pie de página al costado derecho 
+podemos acceder al Manual Campus Virtual para Docentes, el cual  citaremos en los próximos 
+puntos  
+ 
+5) Ingresar al campus virtual y  a la página del curso : para esto accedemos a través de 
+https://campusvirtual.ufro.cl/  ingresamos nuestro usuario y contraseña y podemos visualizar 
+nuestros cursos.  
+5.1) Crear en el Calendario del Campus Virtual las clases : para eso accedemos a nuestro 
+Campus Virtual y en la página de inicio en el menú seleccionamos Eventos:  
+ 
+Figura  2:  M enú Event os .  
+Luego seleccionamos Nuevo Evento:  
+ 
+Figura  3:  Crear  Nuev o Ev ent o  
+
+ Procedimiento Docente para Clases Virtuales  
+ 
+Página 3 
+Una vez ahí seguimos los pasos descritos en el Manual Campus Virtual para Docentes , 
+página 82 e iremos agregando nuestras clases al calendario.  
+ 
+5.2) En la descripción del evento, pegar el link a la reunión M eet, link que obtenemos 
+como ya se mencionó en el presente documento en el punto 3.3, esta es la segunda 
+opción de cómo hacer llegar la invitación a la clase a los estudiantes, finalmente 
+seleccionamos Guardar . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Procedimiento Docente para Clases Virtuales  
+ 
+Página 4 
+Anexo 1: Formas de Difundir e invitar a la clase virtual  
+1. Vía E -mail en el Calendar:  Desde el calendario de Google, cuando creamos la clase, 
+ingresamos los correos electrónicos de los estudiantes. Para el paso a paso, ver manual  
+Uso de Meet en la docencia, Figura 11, Página 7.  
+ 
+2. Vía calendario de Campus Virtual:  En el calendario de Campus V irtual , al crear un 
+evento (en este caso será la clase), en la descripción de esta, copiamos el link de la 
+clase creada en el calendario de Google (ver manual  Uso de Meet en la docencia, 
+Figura 11, Página 7).  
+ 
+3. A través del Foro Novedades del Campus Virtual : Esta opción se hace a través de 
+Avisos Recientes:  
+ 
+Figura 4: A ña dir nuev o tema  a  F oro Nov edades .  
+Seleccionamos Añadir un nuevo Tema, rellenamos el formulario y en la descripción 
+copiamos el Link de la clase Virtual y finalmente seleccionamos la opción “Enviar al 
+foro”.  
+
+ Procedimiento Docente para Clases Virtuales  
+ 
+Página 5 
+ 
+Figura 5: Crear  A nunci o en el  f oro.  
+ 
+4. Vía mensaje por el Campus Virtual:  para ello nos vamos a Mis Cursos y seleccionamos 
+el curso con el cual nos queremos comunicar, luego seleccionamos Participantes → Ir 
+a participantes.  
+ 
+Figura 6: M enú Ir a  Partici pantes.  
+
+ Procedimiento Docente para Clases Virtuales  
+ 
+Página 6 
+Una vez cargado el listado de todos los participantes del curso, presionamos en 
+Seleccionar todo y luego en Enviar Mensaje.  
+ 
+Figura 7: S eleccionar  t odos  los  participa nt es  del curs o para  enviar un mensaj e.  
+Finalmente escribimos el  mensaje y pegamos el link de la clase (Link de Google Meet que 
+obtenemos desde el Calendar de Google),  luego enviamos el mensaje.  
+ 
+Figura 8: P egar Li nk  de M eet  y  enviar el mensaj e.

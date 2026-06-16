@@ -1,0 +1,27 @@
+2. Seleccione Google Fotos
+Desmarque todas las opciones con "Desmarcar todo".
+Marque solo "Google Fotos".
+Haga clic en "Siguiente paso".
+Instructivo para liberar
+alm acenam iento en
+Google Fotos
+1. Acceda a Google Takeout
+Inicie sesión en la cuenta institucional en Google Takeout.
+3. Configure la Exportación
+Seleccione "Enviar enlace de descarga por correo electrónico".
+Elija "Exportar una vez", ".zip" y "4 GB".
+Haga clic en "Crear exportación".
+
+5. Elimine Archivos en Google Fotos
+Elimine fotos/vídeos seleccionandolos y usando el ícono de papelero.
+Vacíe la papelera ("Papelera" > "Vaciar papelera") y verifique el espacio
+liberado en Almacenamiento Google.
+4. Descargue los archivos
+Espere el correo electrónico de Google Takeout ("Tu exportación está lista")
+y descargue los .zip desde el enlace proporcionado.
+Guarde los archivos en un computador, nube o dispositivo externo.
+Advertencias
+Revisión: Verifique los archivos descargados para no perder datos.
+Tiempo: La exportación puede tomar horas o días.
+Soporte: Consulte Cómo descargar tus datos de Google o al correo
+electronico soporte.dinfo@ufrontera.cl.
